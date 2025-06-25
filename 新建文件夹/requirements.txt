@@ -1,0 +1,4 @@
+flask
+pydub
+ffmpeg-python
+python-dotenv
